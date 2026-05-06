@@ -1,6 +1,6 @@
-# Hola, soy Antonio Castor Silva 👋
+# Hola, soy Antonio Eduardo Castor Silva 👋
 
-💻 Software Developer | IoT & Embedded Systems + Web 
+💻 Software Developer | IoT & Embedded Systems + Web
 🎓 Ingeniería en Software – UVEG  
 📍 México  
 🚀 Enfocado en crear aplicaciones web funcionales y experiencias modernas.
