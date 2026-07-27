@@ -1,112 +1,188 @@
-# Hola, soy Antonio Eduardo Castor Silva 👋
+# 👋 Hi, I'm Antonio Eduardo Castor Silva
 
-💻 **Software Developer focused on IoT, Embedded Systems and Real-Time Interfaces**  
-🎓 Ingeniería en Software – UVEG  
-📍 México  
+## Software Engineer | IoT Developer | Embedded Systems | Real-Time Applications
 
-Estoy construyendo proyectos reales que combinan software, hardware, sensores, dashboards, automatización y telemetría en tiempo real.
+🎓 Software Engineering Student – UVEG  
+📍 Mexico
 
-Actualmente me enfoco en:
+I design and build end-to-end embedded systems by combining software, electronics, IoT, cloud technologies and real-time interfaces.
 
-- IoT Systems
-- Embedded Development
-- Real-Time Telemetry
-- Web Dashboards
-- Simulation Systems
-- Edge Computing
-- Smart Automation
+My projects integrate ESP32 microcontrollers, FreeRTOS, MQTT communication, web dashboards, automation and telemetry to solve real-world engineering challenges.
 
 ---
 
-## 🧰 Tecnologías
+# 🚀 Current Focus
 
+- Embedded Software Development
+- ESP32 / ESP-IDF
+- FreeRTOS
+- IoT Architectures
+- MQTT Communication
+- Edge Computing
+- Smart Farming
+- Industrial Automation
+- Real-Time Dashboards
+- Python Applications
+- Data Analytics (Learning)
+
+---
+
+# 🛠 Tech Stack
+
+### Programming
+
+- C
+- C++
+- Python
+- JavaScript
 - HTML5
 - CSS3
-- JavaScript
-- Python
+- SQL
+
+### Embedded Systems
+
+- ESP32
+- ESP32-S3
+- ESP-IDF
+- FreeRTOS
+- Arduino Framework
+
+### IoT
+
+- MQTT
+- HiveMQ Cloud
+- REST APIs
+- WebSockets
+
+### Web Development
+
 - Flask
 - SQLite
-- Git & GitHub
-- npm
-- Webpack
-- ESP32
-- Arduino
-- MQTT
-- HiveMQ
-- OLED SSD1306
-- vJoy
-- Embedded Systems
-- IoT Dashboards
+- Responsive Dashboards
+- Chart.js
+
+### Tools
+
+- Git
+- GitHub
+- VS Code
+- KiCad
+- PlatformIO
+- Arduino IDE
 
 ---
 
-## 🚀 Actualmente
+# 🌟 Featured Projects
 
-🔭 Construyendo proyectos reales de IoT, telemetría, automatización y sistemas embebidos.  
-🎯 Buscando oportunidades como desarrollador junior, IoT developer o embedded/software developer.  
-📚 En constante aprendizaje y documentando mis proyectos en GitHub.
+## 🌱 KAZTHOR FARM
 
----
+Intelligent Smart Farming platform based on ESP32-S3.
 
-## ⭐ Proyectos destacados
+### Features
 
-### 🚛 KAZTHOR EDGE — ETS2 IoT Telemetry System
+- Automatic climate control
+- MQTT Cloud Communication
+- OLED Interface
+- Real-Time Dashboard
+- Soil Monitoring
+- Water Monitoring
+- Servo-controlled ventilation
+- FreeRTOS Architecture
+- Modular Hardware Design
 
-Sistema de telemetría en tiempo real para Euro Truck Simulator 2 utilizando ESP32, MQTT, OLED displays, joysticks físicos, Python, vJoy y dashboards cloud.
+**Technologies**
 
-**Características principales:**
+ESP32-S3 • ESP-IDF • FreeRTOS • MQTT • HTML • JavaScript
 
-- Telemetría en tiempo real desde ETS2
-- Dashboard web conectado por MQTT
-- ESP32 con OLED y alertas físicas
-- Control físico del simulador con joysticks
-- Arquitectura híbrida: control local + telemetría cloud
-
-🔗 **Dashboard:**  
-https://antoniokazthor12345.github.io/kazthor-edge-dashboard/
-
-🔗 **Repositorio:**  
-https://github.com/antoniokazthor12345/kazthor-edge-ets2
+🔗 Repository:
+https://github.com/antoniokazthor12345/Kazthorfarm
 
 ---
 
-### 🌐 Portafolio Web
+## 🚛 KAZTHOR EDGE
 
-Portafolio personal desarrollado para mostrar mis proyectos, habilidades y experiencia.
+Physical telemetry interface for Euro Truck Simulator 2.
 
-🔗 **Deploy:**  
-https://antoniokazthor12345.github.io/PortafolioWeb/
+### Features
 
----
+- ESP32 Dashboard
+- OLED Display
+- Physical Controls
+- MQTT Cloud
+- Python Backend
+- ETS2 Telemetry
+- Real-Time Dashboard
 
-### 🛒 Ecommerce con Flask
+Architecture:
 
-Aplicación web tipo ecommerce desarrollada con Flask, SQLite, autenticación de usuarios, carrito de compras e integración con Stripe.
-
----
-
-### 📡 Smart Radar IoT System
-
-Sistema de monitoreo embebido utilizando ESP32 + Arduino + sensores en tiempo real, con visualización de datos y enfoque en seguridad/automatización.
-
----
-
-## 🧠 Áreas de interés
-
-- IoT
-- Embedded Systems
-- Edge Computing
-- Digital Twin Systems
-- Smart Farming
-- Automation
-- Simulation Interfaces
-- Real-Time Dashboards
-- Hardware + Software Integration
+ESP32 + Python + MQTT + ETS2 SDK
 
 ---
 
-## 📫 Contacto
+## 🌐 Portfolio Website
 
-📧 **Email:** antoniok687@gmail.com  
-💼 **LinkedIn:** https://www.linkedin.com/in/antonio-kazthor-443413245  
-🌐 **Portfolio:** https://antoniokazthor12345.github.io
+Personal website showcasing all projects, documentation and future developments.
+
+---
+
+## 🛒 Flask E-Commerce
+
+Complete e-commerce platform built with Flask and SQLite.
+
+Features:
+
+- Authentication
+- Shopping Cart
+- Stripe Payments
+- Admin Panel
+
+---
+
+# 📚 Currently Learning
+
+- STM32
+- CAN Bus
+- LoRa
+- AI for Embedded Systems
+- Computer Vision
+- Data Analytics
+- SQL
+- Power BI
+
+---
+
+# 🎯 Career Objective
+
+I'm looking for opportunities as:
+
+- Embedded Software Engineer
+- IoT Developer
+- Software Engineer
+- Firmware Developer
+- Automation Engineer
+
+where I can contribute to real-world engineering projects while continuing to grow in embedded systems, cloud technologies and industrial IoT.
+
+---
+
+# 📫 Contact
+
+📧 Email
+
+antoniok687@gmail.com
+
+💼 LinkedIn
+
+https://www.linkedin.com/in/antonio-kazthor-443413245
+
+🌐 Portfolio
+
+https://antoniokazthor12345.github.io/PortafolioWeb
+
+💻 GitHub
+
+https://github.com/antoniokazthor12345
+
+---
+
+> Building intelligent embedded systems, one project at a time.
